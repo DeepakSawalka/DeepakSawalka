@@ -2,7 +2,7 @@
 
 
 <h3 align="center">"From Raw Data to Riveting Stories: A Talented Data Science and Engineering Storyteller"</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksawalka&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksawalka" /> </p>
 - 🌱 I’m currently learning **Apache Kafka, Grafana, Apache Spark,Hadoop**
 
 - 💬 Ask me about **Python,Sql**
