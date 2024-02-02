@@ -1,13 +1,13 @@
 ### 👋 Hi | Hallo | नमस्ते  
 
 
-<h1 align="center"> I'm Deepak Rajkumar Sawalka</h1>
+<h1 align="center"> I'm Deepak R Sawalka</h1>
 <h3 align="center">"From Raw Data to Riveting Stories: A Talented Data Science and Engineering Storyteller"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksawalka&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksawalka" /> </p>
 
 
-  <table>
+  <table border="0">
   <tr>
     <td valign="top">
       <p align="center">"𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐝𝐚𝐭𝐚, 𝐲𝐨𝐮'𝐫𝐞 𝐣𝐮𝐬𝐭 𝐚𝐧𝐨𝐭𝐡𝐞𝐫 𝐩𝐞𝐫𝐬𝐨𝐧 𝐰𝐢𝐭𝐡 𝐚𝐧 𝐨𝐩𝐢𝐧𝐢𝐨𝐧." - 𝑾. 𝑬𝒅𝒘𝒂𝒓𝒅𝒔 𝑫𝒆𝒎𝒊𝒏𝒈.</p>
