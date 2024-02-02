@@ -12,10 +12,6 @@
     <td valign="top">
       <p align="center">"𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐝𝐚𝐭𝐚, 𝐲𝐨𝐮'𝐫𝐞 𝐣𝐮𝐬𝐭 𝐚𝐧𝐨𝐭𝐡𝐞𝐫 𝐩𝐞𝐫𝐬𝐨𝐧 𝐰𝐢𝐭𝐡 𝐚𝐧 𝐨𝐩𝐢𝐧𝐢𝐨𝐧." - 𝑾. 𝑬𝒅𝒘𝒂𝒓𝒅𝒔 𝑫𝒆𝒎𝒊𝒏𝒈.</p>
       <p align="justify">As a Graduate Student and Data Enthusiast at Northeastern University, I excel in solving complex problems using data. My forte is transforming numbers into narratives, making information not only accessible but also deeply insightful. This involves navigating the entire data pipeline—from collection and cleaning to deploying machine learning models. Through numerous real-world projects, I've utilized data to inform decisions that positively impact society. My mission is to leverage big data technology to generate real value, aiming to make a meaningful difference with every dataset I delve into.</p>
-    </td>
-    <td valign="top">
-      <img src="https://github.com/DeepakSawalka/DeepakSawalka/blob/main/Image">
-    </td>
   </tr>
 </table>
 
