@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksawalka&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksawalka" /> </p>
 
-<table width="100%">
   <tr>
     <!-- Content Cell -->
     <td valign="top" style="text-align: left;">
@@ -18,7 +17,6 @@
       <img src="https://github.com/DeepakSawalka/DeepakSawalka/blob/main/Image" style="max-width: 100%,max-height: 100%;">
     </td>
   </tr>
-</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
