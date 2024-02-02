@@ -6,11 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaksawalka&label=Profile%20views&color=0e75b6&style=flat" alt="deepaksawalka" /> </p>
 
-- 🌱 I’m currently learning **Apache Kafka, Grafana, Apache Spark,Hadoop**
-
-- 💬 Ask me about **Python,Sql**
-
-- ⚡ Fun fact **I can spot data outliers from a mile away and love finding interesting patterns in data.**
+<p align="center"> 👨‍🎓 "Without data, you're just another person with an opinion." - W. Edwards Deming. As a Graduate Student and Data Enthusiast at Northeastern University.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
